@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.gms.common.ConnectionResult'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
